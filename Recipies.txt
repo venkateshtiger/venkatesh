@@ -6,5 +6,8 @@ pasta
 mutton
 chicken fry
 
+beans
+pizza
+
 
 thank you
